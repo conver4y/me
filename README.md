@@ -6,12 +6,12 @@
 - 🧠 Full-stack developer.
 - ⭐ Rarely playing games, I guess.
 - ☕ Coffee addict. I'm dying without that.
-- ⏱ I'm 15 y.o.
+- ⏱ I'm 16 y.o.
 
 ### Soft-skills
 - 🤖 Javascript (mostly), HTML/CSS
 - 🔧 Visual Studio Code
-- ⌨ Photoshop, Premiere Pro, Vegas Pro, FL Studio
+- ⌨ Photoshop, Vegas Pro, FL Studio
 
 ### My works:
 - https://blob-project.com
