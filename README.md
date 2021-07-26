@@ -1,4 +1,4 @@
-## Hi, I'm <a href="https://ray1337.com/" target="_blank">ray.</a> 👋
+## Hi, I'm <a href="https://13373333.one/" target="_blank">ray.</a> 👋
 ### About
 - 🤖 I'm currently learning about Artificial Intelligence, Discord Bot project and stuff.
 - 🎓 I'm still in the vocational high school.
