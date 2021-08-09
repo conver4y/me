@@ -10,6 +10,7 @@
 
 ### Soft-skills
 - 🤖 Javascript, Typescript, HTML/CSS
+- 📂 React (NextJS)
 - 🔧 Visual Studio Code
 - ⌨ Photoshop, Vegas Pro, FL Studio
 
